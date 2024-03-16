@@ -9,3 +9,4 @@ public record BreakfastResponse(
     DateTime LastModifiedDateTime,
     List<string> Savory,
     List<string> Sweet);
+
